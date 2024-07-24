@@ -1,0 +1,64 @@
+{
+  "adminUserEnabled": false,
+  "anonymousPullEnabled": false,
+  "creationDate": "2024-07-24T06:29:43.661134+00:00",
+  "dataEndpointEnabled": false,
+  "dataEndpointHostNames": [],
+  "encryption": {
+    "keyVaultProperties": null,
+    "status": "disabled"
+  },
+  "id": "/subscriptions/215e851f-019e-434a-a628-04fbeafe6e48/resourceGroups/LunaResourceGroup/providers/Microsoft.ContainerRegistry/registries/lunaregistry",
+  "identity": null,
+  "location": "westeurope",
+  "loginServer": "lunaregistry.azurecr.io",
+  "metadataSearch": "Disabled",
+  "name": "lunaregistry",
+  "networkRuleBypassOptions": "AzureServices",
+  "networkRuleSet": null,
+  "policies": {
+    "azureAdAuthenticationAsArmPolicy": {
+      "status": "enabled"
+    },
+    "exportPolicy": {
+      "status": "enabled"
+    },
+    "quarantinePolicy": {
+      "status": "disabled"
+    },
+    "retentionPolicy": {
+      "days": 7,
+      "lastUpdatedTime": "2024-07-24T06:29:50.569681+00:00",
+      "status": "disabled"
+    },
+    "softDeletePolicy": {
+      "lastUpdatedTime": "2024-07-24T06:29:50.569721+00:00",
+      "retentionDays": 7,
+      "status": "disabled"
+    },
+    "trustPolicy": {
+      "status": "disabled",
+      "type": "Notary"
+    }
+  },
+  "privateEndpointConnections": [],
+  "provisioningState": "Succeeded",
+  "publicNetworkAccess": "Enabled",
+  "resourceGroup": "LunaResourceGroup",
+  "sku": {
+    "name": "Basic",
+    "tier": "Basic"
+  },
+  "status": null,
+  "systemData": {
+    "createdAt": "2024-07-24T06:29:43.661134+00:00",
+    "createdBy": "b085bdfb-9e3d-49b8-99fe-8b72c17b4758",
+    "createdByType": "Application",
+    "lastModifiedAt": "2024-07-24T06:29:43.661134+00:00",
+    "lastModifiedBy": "b085bdfb-9e3d-49b8-99fe-8b72c17b4758",
+    "lastModifiedByType": "Application"
+  },
+  "tags": {},
+  "type": "Microsoft.ContainerRegistry/registries",
+  "zoneRedundancy": "Disabled"
+}

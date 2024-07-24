@@ -1,0 +1,96 @@
+{
+  "confidentialComputeProperties": null,
+  "containers": [
+    {
+      "command": null,
+      "environmentVariables": [],
+      "image": "lunaregistry.azurecr.io/my-nginx-image:v1",
+      "instanceView": {
+        "currentState": {
+          "detailStatus": "",
+          "exitCode": null,
+          "finishTime": null,
+          "startTime": "2024-07-24T07:07:43.984000+00:00",
+          "state": "Running"
+        },
+        "events": [
+          {
+            "count": 1,
+            "firstTimestamp": "2024-07-24T07:07:22+00:00",
+            "lastTimestamp": "2024-07-24T07:07:22+00:00",
+            "message": "pulling image \"lunaregistry.azurecr.io/my-nginx-image@sha256:c38a247b9018fd129e70d38afa5d3309cb89e5291f7c910e49646c5653c4d366\"",
+            "name": "Pulling",
+            "type": "Normal"
+          },
+          {
+            "count": 1,
+            "firstTimestamp": "2024-07-24T07:07:34+00:00",
+            "lastTimestamp": "2024-07-24T07:07:34+00:00",
+            "message": "Successfully pulled image \"lunaregistry.azurecr.io/my-nginx-image@sha256:c38a247b9018fd129e70d38afa5d3309cb89e5291f7c910e49646c5653c4d366\"",
+            "name": "Pulled",
+            "type": "Normal"
+          },
+          {
+            "count": 1,
+            "firstTimestamp": "2024-07-24T07:07:43+00:00",
+            "lastTimestamp": "2024-07-24T07:07:43+00:00",
+            "message": "Started container",
+            "name": "Started",
+            "type": "Normal"
+          }
+        ],
+        "previousState": null,
+        "restartCount": 0
+      },
+      "livenessProbe": null,
+      "name": "luna-nginx-container",
+      "ports": [],
+      "readinessProbe": null,
+      "resources": {
+        "limits": null,
+        "requests": {
+          "cpu": 1.0,
+          "gpu": null,
+          "memoryInGb": 1.0
+        }
+      },
+      "securityContext": null,
+      "volumeMounts": null
+    }
+  ],
+  "diagnostics": null,
+  "dnsConfig": null,
+  "encryptionProperties": null,
+  "extensions": null,
+  "id": "/subscriptions/215e851f-019e-434a-a628-04fbeafe6e48/resourceGroups/LunaResourceGroup/providers/Microsoft.ContainerInstance/containerGroups/luna-nginx-container",
+  "identity": null,
+  "imageRegistryCredentials": [
+    {
+      "identity": null,
+      "identityUrl": null,
+      "isDelegatedIdentity": false,
+      "password": null,
+      "server": "lunaregistry.azurecr.io",
+      "username": "lunaregistry"
+    }
+  ],
+  "initContainers": [],
+  "instanceView": {
+    "events": [],
+    "state": "Running"
+  },
+  "ipAddress": null,
+  "location": "westeurope",
+  "name": "luna-nginx-container",
+  "osType": "Linux",
+  "priority": null,
+  "provisioningState": "Succeeded",
+  "resourceGroup": "LunaResourceGroup",
+  "restartPolicy": "Always",
+  "sku": "Standard",
+  "subnetIds": null,
+  "tags": {},
+  "type": "Microsoft.ContainerInstance/containerGroups",
+  "volumes": null,
+  "zones": null
+}
