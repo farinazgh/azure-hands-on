@@ -1,0 +1,18 @@
+{
+  "condition": null,
+  "conditionVersion": null,
+  "createdBy": null,
+  "createdOn": "2024-07-25T10:27:54.415750+00:00",
+  "delegatedManagedIdentityResourceId": null,
+  "description": null,
+  "id": "/subscriptions/215e851f-019e-434a-a628-04fbeafe6e48/resourceGroups/LunaResourceGroup/providers/Microsoft.Storage/storageAccounts/lunasynthia/providers/Microsoft.Authorization/roleAssignments/17154308-6104-4881-b8e7-0319cce5f766",
+  "name": "17154308-6104-4881-b8e7-0319cce5f766",
+  "principalId": "b831a6f1-b9f4-49da-a5b4-afbd93baa00b",
+  "principalType": "ServicePrincipal",
+  "resourceGroup": "LunaResourceGroup",
+  "roleDefinitionId": "/subscriptions/215e851f-019e-434a-a628-04fbeafe6e48/providers/Microsoft.Authorization/roleDefinitions/ba92f5b4-2d11-453d-a403-e96b0029c9fe",
+  "scope": "/subscriptions/215e851f-019e-434a-a628-04fbeafe6e48/resourceGroups/LunaResourceGroup/providers/Microsoft.Storage/storageAccounts/lunasynthia",
+  "type": "Microsoft.Authorization/roleAssignments",
+  "updatedBy": "feb17cf4-9253-4776-8d7e-b6c2ab5c9aa6",
+  "updatedOn": "2024-07-25T10:27:54.758754+00:00"
+}

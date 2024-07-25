@@ -1,0 +1,103 @@
+{
+  "accessTier": "Hot",
+  "accountMigrationInProgress": null,
+  "allowBlobPublicAccess": false,
+  "allowCrossTenantReplication": false,
+  "allowSharedKeyAccess": true,
+  "allowedCopyScope": null,
+  "azureFilesIdentityBasedAuthentication": null,
+  "blobRestoreStatus": null,
+  "creationTime": "2024-07-25T08:14:34.496984+00:00",
+  "customDomain": null,
+  "defaultToOAuthAuthentication": false,
+  "dnsEndpointType": "Standard",
+  "enableExtendedGroups": null,
+  "enableHttpsTrafficOnly": true,
+  "enableNfsV3": null,
+  "encryption": {
+    "encryptionIdentity": null,
+    "keySource": "Microsoft.Storage",
+    "keyVaultProperties": null,
+    "requireInfrastructureEncryption": false,
+    "services": {
+      "blob": {
+        "enabled": true,
+        "keyType": "Account",
+        "lastEnabledTime": "2024-07-25T08:14:34.950117+00:00"
+      },
+      "file": {
+        "enabled": true,
+        "keyType": "Account",
+        "lastEnabledTime": "2024-07-25T08:14:34.950117+00:00"
+      },
+      "queue": null,
+      "table": null
+    }
+  },
+  "extendedLocation": null,
+  "failoverInProgress": null,
+  "geoReplicationStats": null,
+  "id": "/subscriptions/215e851f-019e-434a-a628-04fbeafe6e48/resourceGroups/LunaResourceGroup/providers/Microsoft.Storage/storageAccounts/lunasynthia",
+  "identity": null,
+  "immutableStorageWithVersioning": null,
+  "isHnsEnabled": null,
+  "isLocalUserEnabled": null,
+  "isSftpEnabled": null,
+  "isSkuConversionBlocked": null,
+  "keyCreationTime": {
+    "key1": "2024-07-25T08:14:34.653235+00:00",
+    "key2": "2024-07-25T08:14:34.653235+00:00"
+  },
+  "keyPolicy": null,
+  "kind": "StorageV2",
+  "largeFileSharesState": "Enabled",
+  "lastGeoFailoverTime": null,
+  "location": "westeurope",
+  "minimumTlsVersion": "TLS1_2",
+  "name": "lunasynthia",
+  "networkRuleSet": {
+    "bypass": "AzureServices",
+    "defaultAction": "Allow",
+    "ipRules": [],
+    "ipv6Rules": [],
+    "resourceAccessRules": null,
+    "virtualNetworkRules": []
+  },
+  "primaryEndpoints": {
+    "blob": "https://lunasynthia.blob.core.windows.net/",
+    "dfs": "https://lunasynthia.dfs.core.windows.net/",
+    "file": "https://lunasynthia.file.core.windows.net/",
+    "internetEndpoints": null,
+    "microsoftEndpoints": null,
+    "queue": "https://lunasynthia.queue.core.windows.net/",
+    "table": "https://lunasynthia.table.core.windows.net/",
+    "web": "https://lunasynthia.z6.web.core.windows.net/"
+  },
+  "primaryLocation": "westeurope",
+  "privateEndpointConnections": [],
+  "provisioningState": "Succeeded",
+  "publicNetworkAccess": "Enabled",
+  "resourceGroup": "LunaResourceGroup",
+  "routingPreference": null,
+  "sasPolicy": null,
+  "secondaryEndpoints": {
+    "blob": "https://lunasynthia-secondary.blob.core.windows.net/",
+    "dfs": "https://lunasynthia-secondary.dfs.core.windows.net/",
+    "file": null,
+    "internetEndpoints": null,
+    "microsoftEndpoints": null,
+    "queue": "https://lunasynthia-secondary.queue.core.windows.net/",
+    "table": "https://lunasynthia-secondary.table.core.windows.net/",
+    "web": "https://lunasynthia-secondary.z6.web.core.windows.net/"
+  },
+  "secondaryLocation": "northeurope",
+  "sku": {
+    "name": "Standard_RAGRS",
+    "tier": "Standard"
+  },
+  "statusOfPrimary": "available",
+  "statusOfSecondary": "available",
+  "storageAccountSkuConversionStatus": null,
+  "tags": {},
+  "type": "Microsoft.Storage/storageAccounts"
+}
