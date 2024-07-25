@@ -1,0 +1,315 @@
+IAM Users & Groups Hands OnHands
+IAM Policies Hands OnHands
+IAM MFA Hands OnHands
+AWS CLI Hands OnHands
+IAM Roles Hands OnHands
+EC2 Instances Launch Types Hands OnHands
+IAM Security Tools Hands OnHands
+Create an EC2 Instance with EC2 User Data to have aWebsite Hands OnHands
+Security Groups Hands OnHands
+Private vs Public vs Elastic IP Hands OnHands
+EC2 Placement Groups - Hands OnHands
+Elastic Network Interfaces (ENI) - Hands OnHands
+EC2 Hibernate - Hands OnHands
+EBS Hands OnHands
+EBS Snapshots - Hands OnHands
+AMI Hands OnHands
+Amazon EFS - Hands OnHands
+Application Load Balancer (ALB) - Hands On - Part 1Hands
+Application Load Balancer (ALB) - Hands On - Part 2Hands
+Network Load Balancer (NLB) - Hands OnHands
+Elastic Load Balancer - SSL Certifi cates - Hands OnHands
+Auto Scaling Groups - Scaling Policies Hands OnHands
+Amazon RDS Hands OnHands
+Auto Scaling Groups Hands OnHands
+Amazon Aurora - Hands OnHands
+ElastiCache Hands OnHands
+Route 53 - Health Checks Hands OnHands
+Beanstalk Hands OnHands
+S3 Hands OnHands
+S3 Security: Bucket Policy Hands OnHands
+S3 Website Hands OnHands
+S3 Versioning - Hands OnHands
+S3 Replication - Hands OnHands
+S3 Storage Classes Hands OnHands
+S3 Lifecycle Rules - Hands OnHands
+S3 Event Notifi cations - Hands OnHands
+S3 Encryption - Hands OnHands
+S3 CORS Hands OnHands
+S3 MFA Delete Hands OnHands
+S3 Access Logs - Hands OnHands
+S3 Pre-signed URLs - Hands OnHands
+CloudFront with S3 - Hands OnHands
+AWS Global Accelerator - Hands OnHands
+AWS Snow Family Hands OnHands
+Amazon FSx - Hands OnHands
+Storage Gateway Hands OnHands
+SQS - Standard Queue Hands OnHands
+SNS - Hands OnHands
+Kinesis Data Streams Hands OnHands
+Kinesis Data Firehose Hands OnHands
+Creating ECS Cluster - Hands OnHands
+Creating ECS Service - Hands OnHands
+Amazon ECS - Clean Up - Hands OnHands
+Amazon EKS - Hands OnHands
+AWS App Runner - Hands OnHands
+Lambda Hands-OnHands
+Amazon DynamoDB - Hands-OnHands
+API Gateway Basics Hands-OnHands
+Athena Hands OnHands
+Kinesis Data Analytics - Hands OnHands
+CloudWatch Logs - Hands OnHands
+CloudWatch Logs - Live Tail - Hands OnHands
+CloudWatch Alarms Hands OnHands
+Amazon EventBridge - Hands OnHands
+CloudTrail Hands OnHands
+AWS Confi g - Hands OnHands
+Organizations - Hands OnHands
+AWS Directory Services - Hands OnHands
+KMS Hands On w/ CLIHands
+SSM Parameter Store Hands
+SSM Parameter Store Hands
+AWS Secrets Manager - Hands OnHands
+WAF & Shield - Hands OnHands
+VPC Hands OnHands
+Subnet Hands OnHands
+Internet Gateways & Route Tables Hands OnHands
+Bastion Hosts Hands OnHands
+NAT Instances Hands OnHands
+NAT Gateways Hands OnHands
+NACL & Security Groups Hands OnHands
+VPC Peering Hands OnHands
+VPC Endpoints Hands OnHands
+VPC Flow Logs Hands On + AthenaHands
+Site to Site VPN, Virtual Private Gateway & Customer Gateway Hands OnHands
+IPv6 for VPC - Hands OnHands
+Egress Only Internet Gateway Hands OnHands
+Database Migration Service (DMS) - Hands OnHands
+AWS Backup - Hands OnHands
+CloudFormation - Hands OnHands
+AWS Trusted Advisor Overview + Hands-OnHands
+There are many hands-on lectures in every section
+the course! You are in good hands!
+Beginners - Hands-on
+infrastructures, securities, and hands…
+IAM Users & Groups Hands On
+IAM Policies Hands On
+IAM MFA Hands On
+AWS CLI Hands On
+IAM Roles Hands On
+EBS Hands On
+IAM Security Tools Hands On
+Create an EC2 Instance with EC2 User Data to have aWebsite Hands On
+Security Groups Hands On
+EBS Snapshots - Hands On
+AMI Hands On
+Amazon EFS - Hands On
+Application Load Balancer (ALB) - Hands On - Part 1
+Application Load Balancer (ALB) - Hands On - Part 2
+Network Load Balancer (NLB) - Hands On
+Elastic Load Balancer - SSL Certifi cates - Hands On
+Auto Scaling Groups Hands On
+Auto Scaling Groups - Scaling Policies Hands On
+Amazon RDS Hands On
+Amazon Aurora - Hands On
+ElastiCache Hands On
+Route 53 - Health Checks Hands On
+Routing Policy - Traffi c Flow & Geoproximity Hands On
+S3 Hands On
+S3 Security: Bucket Policy Hands On
+S3 Website Hands On
+S3 Versioning - Hands On
+S3 Replication - Hands On
+S3 Storage Classes Hands On
+AWS EC2 Instance Metadata - Hands On
+S3 Lifecycle Rules - Hands On
+S3 Event Notifi cations - Hands On
+S3 Encryption - Hands On
+S3 CORS Hands On
+S3 MFA Delete Hands On
+S3 Access Logs - Hands On
+S3 Pre-signed URLs - Hands On
+CloudFront Hands On
+CloudFront - Caching & Caching Invalidations - Hands On
+CloudFront Signed URL - Key Groups + Hands On
+Creating ECS Cluster - Hands On
+Creating ECS Service - Hands On
+Amazon ECS Task Defi nitions - Hands On
+Amazon ECS - Clean Up - Hands On
+Amazon ECR - Hands On
+AWS CoPilot - Hands On
+Beanstalk Lifecycle Policy Overview + Hands On
+CloudFormation - Create Stack - Hands On
+CloudFormation - Update & Delete Stack - Hands On
+Beanstalk Deployment Modes Hands On
+SQS - Standard Queue Hands On
+SQS - Dead Letter Queues - Hands On
+SNS Hands On
+Kinesis Data Streams Hands On
+Kinesis Data Firehose Hands On
+CloudWatch Logs - Hands On
+CloudWatch Logs - Live Tail - Hands On
+CloudWatch Logs - Metric Filters Hands On
+CloudWatch Alarms Hands On
+Amazon EventBridge - Hands On
+X-Ray Hands On
+CloudTrail Hands On
+Lambda Synchronous Invocations Hands On
+Lambda & Application Load Balancer Hands On
+Lambda Asynchronous Invocations Hands On
+Lambda & CloudWatch Events / EventBridge Hands On
+Lambda & S3 Event Notifi cations - Hands On
+AWS Lambda - First Hands On
+Lambda Event Source Mapping Hands On (SQS)
+Lambda Destinations Hands On
+Lambda Permissions - IAM Roles & Resource Policies - Hands On
+Lambda Environment Variables - Hands On
+Lambda Monitoring & X-Ray Tracing - Hands On
+Lambda in VPC - Hands On
+Lambda Function Performance - Hands On
+Lambda Layers - Hands On
+Lambda Concurrency Hands On
+Lambda External Dependencies - Hands On
+Lambda and CloudFormation - Hands On
+Lambda Versions and Aliases - Hands On
+Lambda Function URL - Hands On
+DynamoDB Basics - Hands On
+DynamoDB WCU & RCU - Hands On
+DynamoDB Basic APIs - Hands On
+DynamoDB Indexes (GSI + LSI) - Hands On
+DynamoDB DAX - Hands On
+DynamoDB Streams - Hands On
+API Gateway Basics Hands On
+API Gateway Stages and Deployment Hands On
+API Gateway Stages Confi gurations Hands On
+API Gateway Canary Deployments Hands On
+API Gateway Mapping Templates Hands On
+API Gateway Open API - Hands On
+API Gateway Authentication and Authorization - Hands On
+CodeCommit Hands On Part I
+CodeCommit Hands On Part 2
+CodePipeline - Hands On - Prerequisite
+CodePipeline - Hands On
+CodeBuild Hands On Part I
+CodeBuild Hands On Part 2
+CodeDeploy Hands On
+CodeArtifact - Hands On
+AWS Cloud9 - Hands On
+CDK - Hands On
+Cognito User Pools Hands On
+Cognito Identity Pools Hands On
+Step Functions - Hands On
+Step Functions - Invoke Lambda - Hands On
+Step Functions - Error Handling Hands On
+AppSync Hands On
+AWS Amplify - Hands On
+KMS Hands On w/ CLI
+Encryption SDK CLI Hands On
+SSM Parameter Store Hands On (CLI)
+SSM Parameter Store Hands On (AWS Lambda)
+Secrets Manager - Hands On
+Amazon Athena - Hands On
+Amazon Certifi cate Manager (ACM) Hands On
+There are many hands-on lectures in every section
+some hands-on has been very helpful." – James C.
+5 stars: "This course was very interesting and full of great information and hands-on examples.
+in good hands!
+Beginners - Hands-on
+[SAA] EC2 Placement Groups - Hands On
+[SAA] EC2 Instances Launch Types Hands On
+CloudWatch - Unifi ed CloudWatch Agent - Hands On
+EC2 Instance Status Checks Hands On
+[SAA] EC2 Hibernate Hands On
+[CCP/SAA/DVA] AMI Hands On
+EC2 Image Builder Hands On
+[SAA/DVA] SSM Parameter Store Hands On (CLI)
+SSM Patch Manager and Maintenance Windows - Hands On
+SSM Session Manager Hands On
+[SAA/DVA] Application Load Balancer (ALB) - Hands On - Part 1
+[SAA/DVA] Application Load Balancer (ALB) - Hands On - Part 2
+[SAA/DVA] Network Load Balancer (NLB) - Hands On
+[SAA/DVA] Elastic Load Balancer - SSL Certifi cates - Hands On
+[SAA/DVA] Auto Scaling Groups Hands On
+[SAA/DVA] Auto Scaling Groups - Scaling Policies Hands On
+Auto Scaling Hands On
+[SAA] Beanstalk Hands On
+[DVA] CloudFormation - Create Stack - Hands On
+[DVA] CloudFormation - Update & Delete Stack - Hands On
+CloudFormation - Create StackSets - Hands On
+CloudFormation - Update StackSets - Hands On
+CloudFormation - Delete StackSets - Hands On
+Lambda - Hands On
+Lambda & CloudWatch Events / EventBridge - Hands On
+Lambda & S3 Event Notifi cations - Hands On
+Lambda Permissions - IAM Roles & Resource Policies - Hands On
+Lambda Monitoring & X-Ray Tracing - Hands On
+Lambda Concurrency - Hands On
+[CCP/SAA/DVA] EBS Hands On
+EBS Operation: Snapshots Hands On
+[SAA/DVA] Amazon EFS - Hands On
+[CCP/SAA/DVA] S3 Hands On
+[CCP/SAA/DVA] S3 Security: Bucket Policy Hands On
+[CCP/SAA/DVA] S3 Website Hands On
+[CCP/SAA/DVA] S3 Versioning - Hands On
+[CCP/SAA/DVA] S3 Replication - Hands On
+[CCP/SAA/DVA] S3 Storage Classes Hands On
+[SAA/DVA] S3 Lifecycle Rules - Hands On
+[SAA/DVA] S3 Event Notifi cations - Hands On
+S3 Batch Operations Hands On
+S3 Glacier - Hands On
+Glacier Vault Lock - Hands On
+S3 Multi-Part Upload - Hands On
+[SAA] Athena Hands On
+[SAA/DVA] S3 Encryption - Hands On
+[SAA/DVA] S3 CORS Hands On
+[SAA/DVA] S3 MFA Delete Hands On
+[SAA/DVA] S3 Access Logs - Hands On
+[SAA/DVA] S3 Pre-signed URLs - Hands On
+S3 Access Points - Hands On
+S3 Multi-Region Access Points - Hands On
+[CCP/SAA] AWS Snow Family Hands On
+[SAA] Amazon FSx - Hands On
+[SAA] Storage Gateway Hands On
+[SAA/DVA] CloudFront with S3 - Hands On
+[SAA/DVA] RDS Hands On
+[SAA/DVA] Amazon Aurora - Hands On
+[SAA/DVA] ElastiCache Hands On
+CloudWatch Logs - Hands On
+CloudWatch Logs - Live Tail - Hands On
+CloudWatch Alarms Hands On
+[SAA/DVA] Amazon EventBridge - Hands On
+EventBridge Content Filtering - Hands On
+EventBridge Input Transformation - Hands On
+Service Quotas Hands On
+[CCP/SAA/DVA] CloudTrail - Hands On
+[SAA] Confi g Hands On
+AWS Health Dashboard - Hands On
+[CCP/SAA] Organizations Hands-On
+[CCP] AWS Control Tower Hands On
+AWS Service Catalog Hands-On
+AWS Budgets - Hands On
+[SAA] AWS Backup Hands On
+AWS WAF - Hands On
+Amazon Inspector - Hands On
+[SAA/DVA] KMS Hands On w/ CLI
+[DVA] AWS Certifi cate Manager (ACM) Hands On
+[SAA/DVA] Secrets Manager Hands On
+[CCP/SAA/DVA] IAM Security Tools Hands On
+[SAA/DVA] Route 53 Health Checks - Hands On
+[SAA/DVA] Routing Policy - Traffi c Flow & Geoproximity Hands On
+[SAA] VPC Hands On
+[SAA] Subnet Hands On
+[SAA] Internet Gateways & Route Tables Hands On
+[SAA] Bastion Hosts Hands On
+[SAA] NAT Instances Hands On
+[SAA] NAT Gateways Hands On
+[SAA] DNS Resolution Options & Route 53 Private Zones Hands On
+[SAA] NACL & Security Groups Hands On
+[SAA] VPC Reachability Analyzer Hands On
+[SAA] VPC Peering Hands On
+[SAA] VPC Endpoints Hands On
+[SAA] VPC Flow Logs Hands On + Athena
+[SAA] Site to Site VPN, Virtual Private Gateway & Customer GatewayHands On
+[SAA] AWS PrivateLink - VPC Endpoint Services Hands On
+[SAA] IPv6 for VPC Hands On
+[SAA] Egress Only Internet Gateway Hands On

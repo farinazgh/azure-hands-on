@@ -1,0 +1,178 @@
+############# S3 #############
+Amazon S3 - Hands On
+Amazon S3 Security - Bucket Policy - Hands On
+Amazon S3 - Versioning - Hands On
+Amazon S3 - Replication - Hands On
+Amazon S3 - Storage Classes - Hands On
+Amazon S3 - Event Notifications - Hands On
+Amazon S3 - Encryption - Hands On
+Amazon S3 - Lifecycle Rules - Hands On
+
+############# S3 #############
+Amazon EBS - Hands On
+Amazon EFS - Hands On
+AWS Backup - Hands On
+
+############# DynamoDB #############
+Amazon DynamoDB - Hands On
+Amazon DynamoDB - Throughput (RCU & WCU) - Hands On
+Amazon DynamoDB - Basic APIs - Hands On
+Amazon DynamoDB - Indexes (LSI & GSI) - Hands On
+Amazon DynamoDB Accelerator (DAX) - Hands On
+Amazon DynamoDB - Streams - Hands On
+
+############# DynamoDB #############
+Redshift - Hands On
+AWS Snow Family - Hands On
+
+
+############# S3 #############
+AWS Database Migration Service (AWS DMS) - Hands On
+Amazon ECS - Create Cluster - Hands On
+Amazon ECS - Create Service - Hands On
+Amazon EKS - Hands On
+Athena, Glue, and S3 Data Lakes - Hands On
+Amazon Kinesis Data Streams - Hands On
+Amazon SQS - Dead Letter Queues - Hands On
+Amazon SNS - Hands On
+Amazon EventBridge - Hands On
+IAM Users & Groups Hands On
+IAM Policies - Hands On
+IAM MFA - Hands On
+IAM Roles - Hands On
+AWS KMS - Hands On
+AWS Secrets Manager - Hands On
+Amazon Route 53 - Registering Domains - Hands On
+Amazon Route 53 - Creating DNS Records - Hands On
+Amazon CloudFront - S3 as Origin - Hands On
+Amazon CloudWatch - Logs - Hands On
+Amazon CloudWatch - Alarms - Hands On
+Amazon CloudTrail - Hands On
+AWS Confi g - Hands On
+AWS CloudFormation - Hands On
+SSM Parameter Store - Hands On
+AWS CLI Hands On
+AWS Cloud9 - Hands On
+AWS CDK - Hands On
+AWS Budgets - Hands On
+Amazon API Gateway - Hands On
+You must have an AWS account to follow along with the hands-on activities. The services
+AWS recommends 2-3 years of experience in data engineering, and 1-2 years of hands-on
+the most comprehensive and hands-on prep course we've seen. Together, they've taught
+Throughout the course, you'll have lots of opportunities to reinforce your learning with hands-on
+course! You are in good hands!
+The Ultimate Hands-On 4.6 181,637 €119.99
+Spark and Python - Hands…
+RDS - Hands on
+RDS backup and restore - Hands on
+Creating an Aurora database - Hands on
+Creating an Aurora Serverless database - Hands on
+Using Data API with Aurora Serverless database - Hands on
+Working with DynamoDB - Hands on
+Implementing DAX - Hands on
+DynamoDb backup and restore - Hands on
+Continuous backup with PITR - Hands on
+DynamoDB TTL - Hands on
+DynamoDB global tables - Hands on
+Creating a Redshift cluster - Hands on
+Loading data from S3 into Redshift - Hands on
+Querying S3 data with Redshift Spectrum - Hands on
+Creating a Redis cluster - Hands on
+Creating a Memcached cluster - Hands on
+Creating a DocumentDB cluster - Hands on
+Creating a Neptune cluster - Hands on
+Bulk loading graph data into Neptune from S3 - Hands on
+Querying Neptune via Jupyter Notebooks - Hands on
+ElasticSearch Service - Hands on
+Creating a QLDB ledger - Hands on
+Data verifi cation in QLDB - Hands on
+Working with Keyspaces - Hands on
+Migration with DMS in action - Hands on
+CloudFormation Create Stack Hands On
+CloudFormation Update and Delete Stack Hands On
+are in good hands!
+Hands on one and only best course for
+Practice alongside several advancedhands-on
+Hands On: Creating VPC with Public Subnet
+Hands On: Add Private subnet
+Hands On: Create NAT Gateway
+Hands on exercises scenarios
+Hands On: VPC DNS with Route53 Private Hosted zone
+Hands On: VPC DNS with custom DNS server
+Hands On: VPC Peering across AWS regions
+Hands On: VPC gateway endpoint to access S3 bucket
+Hands On: Create VPC interface endpoint and access SQS
+Hands On: VPC PrivateLink to access customer or 3rd partyservices
+Hands On: Transit Gateway & VPCs with full routing
+Hands On: Transit Gateway & VPCs with restricted routing
+Hands On: Setup AWS Site-to-Site VPN
+Hands On: Setup the AWS Client VPN
+Hands On: Accessing VPC internet gateway over the Client VPNconnection
+Hands On: Client VPN Split Tunnel
+Hands On: Accessing VPC peering connection over a Client VPN
+Hands-On: Set up AWS Cloud WAN network, Segments & VPCattachments
+Hands On: CloudFront Origin Groups
+Hands On: Restrict an ALB to CloudFront
+Hands On: CloudFront Functions
+Hands On: AWS Global Accelerator
+Hands On: ALB X-Forwarded Headers
+Hands On: NLB Proxy Protocol
+Route 53 - Health Checks Hands On
+Routing Policy - Traffi c Flow & Geoproximity Hands On
+Hands On: Route53 Resolvers - Part 1 - Setting up VPN
+Hands On: Route53 Resolvers - Part 2 - DNS confi guration
+Hands On: Route53 Resolvers - Part 3 - Resolver endpoints
+Hands On: Cross-Site Scripting (XSS) attack simulation andprevention with WAF
+Hands On: AWS Network Firewall
+Hands On: Gateway Load Balancer
+Agrawal have teamed up to deliver the most comprehensive and hands-on prep course we've
+You'll have many opportunities to reinforce your learning with hands-on exercises throughout
+26-02-2024: Added lectures and hands-on walkthrough for AWS Cloud WAN
+quickly; hence, wherever possible, these courses include supporting hands-on exercises/demos
+good hands!
+hands on exercises and assignments from very beginning. In my opinion, after you get basic
+[CCP/SAA/DVA/SOA] IAM Security Tools - Hands On
+[SOA/DOP] Amazon Inspector Hands On
+[SAA/DVA/SOA] SSM Parameter Store Hands On (CLI)
+[SOA] SSM Patch Manager and Maintenance Windows - Hands On
+[SOA] SSM Session Manager Hands On
+[SOA/DOP] CloudWatch - Unified CloudWatch Agent - Hands On
+[SAA/DVA/SOA] CloudWatch Logs Hands On
+[SAA/DVA/SOA] CloudWatch Alarms Hands On
+[SAA/DVA/SOA] Amazon EventBridge - Hands On
+[SAA/SOA] Amazon Athena - Hands On
+[CCP/SAA/DVA/SOA] CloudTrail Hands On
+[SAA/DVA/SOA] S3 Event Notifications - Hands On
+[SAA/SOA] VPC Flow Logs Hands On
+[SAA/SOA] Bastion Host - Hands On
+[SAA/SOA] Site to Site VPN - Hands On
+[SAA/SOA] VPC Peering - Hands On
+[SOA] DNS Resolution Options in VPC - Hands On
+[SOA] PrivateLink - Hands On
+[SAA/SOA] NACL & Security Groups - Hands On
+[CCP/SAA/DVA/SOA] CloudFront Hands On
+[DVA] CloudFront - Signed URL & Cookies - Hands On
+[SAA] WAF & Shield - Hands On
+WAF - Hands On
+[SAA/DVA] API Gateway - Hands On
+[SOA] S3 Access Points - Hands On
+[SOA] S3 Multi-Region Access Points - Hands On
+[SAA/DVA/SOA] S3 CORS - Hands On
+[SAA] Secrets Manager - Hands On
+[SOA] Glacier Vault Lock - Hands On
+[SAA/DVA/SOA] S3 Lifecycle Rules - Hands On
+[CCP/SAA/DVA/SOA] S3 Replication - Hands On
+[DVA/SOA] AWS Certificate Manager (ACM) - Hands On
+[SAA] AWS Backup - Hands On
+[CCP/SAA/SOA] Organizations - Hands On
+[SAA/SOA] AWS Config - Hands On
+[CCP/SAA/SOA] Trusted Advisor + Hands On
+[CCP/SAA] CloudFormation - Hands On
+[DVA] Lambda in VPC - Hands On
+[SOA] EC2 Image Builder Hands On
+MUST HAVE - Real Hands-On experience with AWS
+GOOD TO HAVE - AWS Certified Developer, SysOps & DevOps Professional to gain some hands-on experience
+The course is MOSTLY SLIDES-BASED: If you're new to AWS, just finished AWS Certified Solutions Architect Associate and need to acquire some hands-on experience, I strongly recommend doing the following courses: AWS Certified Developer Associate, AWS Certified SysOps Administrator Associate, AWS Certified DevOps Engineer.
+Expert course - you MUST have AT LEAST the AWS Certified Solutions Architect Associate: a lot of pre-requisite knowledge is assumed for that course. If you don't feel confident, please review the AWS Certified Solutions Architect Associate course first. Other certifications and extra-hands on experience is a huge plus.
+The AWS Certified Security Specialty certification is a fun certification and a challenging exam. It requires some substantial hands-on and real-world experience for you to pass. This course is going to help you solidify the knowledge you already have and put it in perspective through the study of various solutions architectures and services.
+With AWS becoming the centerpiece of today's modern IT architectures, I have decided it is time for students to learn how to be an AWS Security Specialty expert. So, let’s kick start the course! You are in good hands!
