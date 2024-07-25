@@ -13,4 +13,13 @@ az storage blob upload --account-name lunasynthia --container-name mycontainer -
 az storage blob list --account-name lunasynthia --container-name lunacontainer --output table
 az storage blob download --account-name lunasynthia --container-name mycontainer --name myblob.txt --file /path/to/download/file.txt
 
+az eventgrid event-subscription create --name <event-subscription-name> --source-resource-id <storage-account-resource-id> --endpoint <event-endpoint>
+# Enable encryption for a storage account
+az storage account update --name <storage-account-name> --resource-group <resource-group-name> --encryption-services blob
+
+# Create a lifecycle management policy
+az storage account management-policy create --account-name <storage-account-name> --policy @<policy-file>.json
+
+
+
 
