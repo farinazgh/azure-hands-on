@@ -1,8 +1,9 @@
 IAM Users & Groups Hands OnHands
-IAM Policies Hands OnHands
+IAM Policies Hands OnHands ✔️
 IAM MFA Hands OnHands
 AWS CLI Hands OnHands
 IAM Roles Hands OnHands
+==================================================
 EC2 Instances Launch Types Hands OnHands
 IAM Security Tools Hands OnHands
 Create an EC2 Instance with EC2 User Data to have aWebsite Hands OnHands

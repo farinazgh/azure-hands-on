@@ -1,12 +1,12 @@
 ############# S3 #############
-Amazon S3 - Hands On
-Amazon S3 Security - Bucket Policy - Hands On
-Amazon S3 - Versioning - Hands On
+Amazon S3 - Hands On ✅
+Amazon S3 Security - Bucket Policy - Hands On ✅
+Amazon S3 - Versioning - Hands On ✅
 Amazon S3 - Replication - Hands On
-Amazon S3 - Storage Classes - Hands On
-Amazon S3 - Event Notifications - Hands On
-Amazon S3 - Encryption - Hands On
-Amazon S3 - Lifecycle Rules - Hands On
+Amazon S3 - Storage Classes - Hands On ✅
+Amazon S3 - Event Notifications - Hands On ✅
+Amazon S3 - Encryption - Hands On ✅
+Amazon S3 - Lifecycle Rules - Hands On ✅
 
 ############# S3 #############
 Amazon EBS - Hands On
